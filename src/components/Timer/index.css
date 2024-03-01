@@ -1,0 +1,18 @@
+.timer-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .timer-image {
+    width: 24px;
+    margin-right: 8px;
+  }
+  
+  .timer-text {
+    color: #fec653;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+  

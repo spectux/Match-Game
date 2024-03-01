@@ -1,0 +1,16 @@
+.tab-button {
+  background-color: #2c0e3a;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-right: 16px;
+}
+
+.tab-button.selected {
+  background-color: #fec653;
+  color: #2c0e3a;
+}
